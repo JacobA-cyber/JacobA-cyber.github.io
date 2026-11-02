@@ -12,7 +12,3 @@ https://jacoba-cyber.github.io/
 - About section and skills list
 - Featured project with links to its live site and source code
 - Responsive layout for different screen sizes
-
-## Run Locally
-1. Clone this repository.
-2. Open `index.html` in your browser, or use Live Server in Visual Studio Code.
